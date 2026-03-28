@@ -88,27 +88,27 @@ This type of architecture is used by companies like **Amazon, Microsoft, Boeing,
 ## 📸 Screenshots
 
 ### Active Directory Users and Computers — parmeet.local Domain
-![AD Users and Computers](<img width="1568" height="423" alt="image" src="https://github.com/user-attachments/assets/82cdcb18-0e74-4f9f-884f-7611b4f26493" />)
+![AD Users and Computers](<https://github.com/user-attachments/assets/82cdcb18-0e74-4f9f-884f-7611b4f26493>)
 
 ---
 
 ### Microsoft Entra ID — Synced Users from On-Premises AD
-![Entra ID Synced Users](<img width="1420" height="840" alt="image" src="https://github.com/user-attachments/assets/55b4abb7-c343-45ea-adda-b8f53cdb0249" />)
+![Entra ID Synced Users](<https://github.com/user-attachments/assets/55b4abb7-c343-45ea-adda-b8f53cdb0249>)
 
 ---
 
 ### Group Policy Management — Password-Policy GPO
-![Group Policy Management](<img width="1460" height="812" alt="image" src="https://github.com/user-attachments/assets/c9b2f9d3-9962-4ebb-a9b7-be113fd3389a" />)
+![Group Policy Management](<https://github.com/user-attachments/assets/c9b2f9d3-9962-4ebb-a9b7-be113fd3389a>)
 
 ---
 
 ### Microsoft Entra Connect — Sync Status Enabled
-![Entra Connect Sync](<img width="1258" height="952" alt="image" src="https://github.com/user-attachments/assets/f08b9aaf-2be1-4f3f-b3bb-6d0c803af176" />)
+![Entra Connect Sync](<https://github.com/user-attachments/assets/f08b9aaf-2be1-4f3f-b3bb-6d0c803af176>)
 
 ---
 
 ### Azure Portal — DC01 VM Running
-![DC01 VM](<img width="1568" height="476" alt="image" src="https://github.com/user-attachments/assets/0226a21f-3b37-4297-9463-91534ef99b7a" />)
+![DC01 VM](<https://github.com/user-attachments/assets/0226a21f-3b37-4297-9463-91534ef99b7a>)
 
 ---
 
